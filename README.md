@@ -5,4 +5,4 @@
 ## How to run application ?
 #### Application need to be run in console 
 ## Inputs:
-#### Integers
+#### Integers in range 1-100
